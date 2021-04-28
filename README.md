@@ -2,7 +2,9 @@
 
 ### I94 Data ETL Project
 
+
 #### Introduction
+
 
 #### Data Sources
 
@@ -13,4 +15,4 @@
 #### ETL Process 
 
 
-#### Project Set Up
+#### Project Set Up and Run
